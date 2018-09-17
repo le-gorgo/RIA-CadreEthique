@@ -1,0 +1,13 @@
+imp(leastBad2,switch(main(0))).
+imp(actUti,switch(main(0))).
+imp(doNotKill,switch(main(0))).
+imp(doNotKill,push(g3,b)).
+imp(dde2,push(g3,b)).
+imp(dde,push(g3,b)).
+per(pureBad,switch(main(0))).
+per(benCosts,switch(main(0))).
+per(dde,switch(main(0))).
+per(pureBad,push(g3,b)).
+per(leastBad2,push(g3,b)).
+per(benCosts,push(g3,b)).
+per(actUti,push(g3,b)).
